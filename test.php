@@ -21,6 +21,6 @@ print "<a href='{$scan->permalink}'>VirusTotal.com Report</a>";
 
 
 print "<pre>";
-print_r($scanReport);
+print_r($report);
 print "</pre>";
 ?>
