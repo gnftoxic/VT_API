@@ -5,5 +5,5 @@ Contributions would be greatly appreciated due to my lack of knowledge of the JS
 Developers:
 * gnftoxic
 ----
-Version 1.0
+'''Version 1.0'''
 * Basic VT scanning / check VT implemented.
