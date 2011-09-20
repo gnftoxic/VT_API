@@ -1,1 +1,9 @@
-''Test''
+'''VirusTotal API'''
+Since the old API by "omg" of the VT community is 404ing, this is the new API.
+Contributions would be greatly appreciated due to my lack of knowledge of the JSON system.
+
+Developers:
+* gnftoxic
+----
+Version 1.0
+* Basic VT scanning / check VT implemented.
