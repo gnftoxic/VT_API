@@ -1,9 +1,18 @@
-'''VirusTotal API'''
+==VirusTotal API==
+
 Since the old API by "omg" of the VT community is 404ing, this is the new API.
+
 Contributions would be greatly appreciated due to my lack of knowledge of the JSON system.
 
 Developers:
 * gnftoxic
-----
-'''Version 1.0'''
-* Basic VT scanning / check VT implemented.
+
+==Changelog==
+'''1.0r1'''
+* Basic VT URL scanning
+* Check VT URL results
+* Check VT scan results
+
+'''1.0r2'''
+* Scan File implemented
+* SSL is optional ("new VirusTotal($apiKey, $sslEnabled);")
