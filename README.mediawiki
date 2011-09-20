@@ -12,5 +12,5 @@ Developers:
 * Check VT scan results
 
 '''1.0r2'''
-* Scan File implemented
+* Scan File implemented (edit: unknown error occurring)
 * SSL is optional ("new VirusTotal($apiKey, $sslEnabled);")
